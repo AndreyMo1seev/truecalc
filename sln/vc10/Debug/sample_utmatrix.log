@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (gtest.vcxproj, test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  sample.cpp
+C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\include\stack.h(210): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\include\stack.h(233): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\include\stack.h(290): warning C4018: <: несоответствие типов со знаком и без знака
+sample.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  sample_utmatrix.vcxproj -> C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\sln\vc10\Debug\sample.exe

@@ -1,0 +1,7 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\include\stack.h(200): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\include\stack.h(223): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\include\stack.h(280): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\include\stack.h(216): warning C4715: Calculator::Prior: значение возвращается не при всех путях выполнения
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\bfghb\source\repos\Новая папка (2)\Calculator-master\mp2-lab3-calc\sln\vc10\Debug\CppCLR_WinformsProjekt1.exe
